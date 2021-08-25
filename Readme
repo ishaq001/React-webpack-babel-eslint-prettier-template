@@ -1,1 +1,8 @@
 React manual project setup with webpack, eslint, prettier and many more necessary packages.
+
+step 1: Download the zip of the project or simply clone it using git clone <repo name>
+step 2 : npm install or yarn - This will install all of the necassary packages that resides in package.json.
+
+Note: This is just a simple manual template of React app with babel, webpack, eslint and prettier configured all manually.
+
+Cheers!
